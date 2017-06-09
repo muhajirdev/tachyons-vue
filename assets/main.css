@@ -1,0 +1,9 @@
+/*import tachyons*/
+@import '~tachyons/css/tachyons.min.css';
+
+/* Debugging */
+@import '~tachyons/src/_debug-children.css';
+@import '~tachyons/src/_debug-grid.css';
+
+/* Uncomment out the line below to help debug layout issues */
+@import '~tachyons/src/_debug.css';
